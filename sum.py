@@ -1,12 +1,4 @@
-#a에 10을 넣고     
-a=10
-#B에다가 20을 넣고
-b=20
-#C아다가 A+B한 값을 넣고
-c=a+b
-#C를 출력한다
-print(c+1)
-# c=c+1
-# c += 1
-print(c)
-x=
+print(1 ,2 ,3, sep=',')
+print(1,2,3, sep='\n')
+print('1\t2\t3')
+print('1\\2\\3')
